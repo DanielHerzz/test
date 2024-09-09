@@ -1,0 +1,11 @@
+{
+  "Visibility": "GONE",
+  "Title": "New Update 2",
+  "Description": "~ All problems has been fixed",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.apk.aab.purchase",
+  "Version": "1.4",
+  "check": "false"
+}
